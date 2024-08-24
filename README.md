@@ -28,7 +28,7 @@ Additionally, the following soft skills will greatly impact your performance:
 
 On your first day as a junior web developer at a coding school, you have been assigned a ticket to complete. The task involves completing some code for the school's software platform.
 
-Specifically, you need to fix a website that displays a list of learners along with their basic information such as ID, name, email, and a list of mentors. Users should be able to click on a learner to highlight it, and the list of mentors for each learner should be expandable and collapsible. You can refer to the [full mockup](https://w-s5-challenge.herokuapp.com/) for the design and behavior of the page. Don't worry: most of the code is already done, you only need to **fix three areas of the code** which are incomplete, causing the website not to work correctly.
+Specifically, you need to fix a website that displays a list of learners along with their basic information such as ID, name, email, and a list of mentors. Users should be able to click on a learner to highlight it, and the list of mentors for each learner should be expandable and collapsible. You can refer to the [full mockup](https://w-s5-challenge.herokuapp.com/) for the design and behavior of the page. Don't worry: most of the code is already done, you only need to **fix three areas of the code** which               are incomplete, causing the website not to work correctly.
 
 To help you complete the task, several members of your team will provide you with instructions and advice.
 
